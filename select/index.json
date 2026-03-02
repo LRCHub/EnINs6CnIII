@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛してる愛して欲しい(Live at 日本武道館 ,2017.12.3)",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T17:42:25.761894Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛してる愛して欲しい",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_愛してる愛して欲しい_サンボマスター.txt"
+    }
+  ]
+}
